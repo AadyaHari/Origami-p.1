@@ -1,0 +1,24 @@
+body{
+background-color: cadetblue; 
+}
+h1{
+    background-color: lemonchiffon;
+    border: pink;
+    border-style: dotted;
+    border-width: thick;
+}
+h3{
+  background-color: pink;  
+  border: lemonchiffon;
+  border-style: dotted;
+  border-width: thick;
+  max-width:350px ;
+}
+
+.item p{
+    background-color: violet;
+    border: lightsalmon;
+    border-style: initial;
+    border-width: thick;
+    max-width: 335px;
+}
